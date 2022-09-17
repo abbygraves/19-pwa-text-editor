@@ -31,11 +31,3 @@ if ("serviceWorker" in navigator) {
 } else {
   console.error("Service workers are not supported in this browser.");
 }
-
-// if ("serviceWorker" in navigator) {
-//   window.addEventListener("load", () => {
-//     navigator.serviceWorker.register("/service-worker.js").then((e) => {
-//       console.log(`Service worker registered! ${e}`);
-//     });
-//   });
-// }
