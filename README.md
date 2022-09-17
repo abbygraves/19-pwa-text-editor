@@ -38,7 +38,7 @@ This repository contains code used in the back end. API routes and functionality
 <br/>
 
 ## **Got Questions?**
-Feel free to reach out with questions or comments regarding `Progressive Web Applications (PWA) Text Editor` !
+Feel free to reach out with questions or comments regarding Progressive Web Applications (PWA) Text Editor!
 
 [My GitHub Profile](https://github.com/abbygraves)&nbsp; :octocat: &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp; abbygraves14@gmail.com&nbsp; :incoming_envelope:
 
