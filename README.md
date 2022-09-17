@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-37B1E4.svg)
 
 ## **Description**
-
+A simple text editor that runs in the browser and meets the PWA criteria. The application functions online as well as offline. 
 
 ### [Click to View Appplication]()
 
@@ -14,26 +14,17 @@
 ## **Built With:**
   + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   + [Node.js](https://nodejs.org/en/)
-  + 
+  + [Express](https://www.npmjs.com/package/express)
+  + [Concurrently](https://www.npmjs.com/package/concurrently)
+  + [idb](https://www.npmjs.com/package/idb)
+  + [Webpack](https://webpack.js.org/)
+  + [Workbox](https://developer.chrome.com/docs/workbox/)
 
 
 <br/>
 
-## **Installation** 
-1. Ensure `Node.js` is installed on your local machine before running this application
-1. Clone the repository to your local machine
-3. Run the following command in the command-line interface to install the required npm packages
-```md
-npm install
-```
-
-<br/>
-
-## **Usage** 
-This repository contains code used in the back end. API routes and functionality can be tested in Insomnia.
-
-1. Start the server by typing `node server` or `npm start` in the command-line interface
-
+## **Usage & Installation** 
+Users can access the Progressive Web Applications (PWA) Text Editor in the browser. If users would like to install the application to their local machine they can do so by clicking the `Install` button located in the application. 
 
 <br/>
 
