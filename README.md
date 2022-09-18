@@ -5,9 +5,9 @@
 ## **Description**
 A simple text editor that runs in the browser and meets the PWA criteria. The application functions online as well as offline. 
 
-### [Click to View Appplication]()
+### [Click to View Appplication](https://fast-headland-03231.herokuapp.com/)
 
-<img src=""/>
+<img src="./assets/jate-console-log-video.gif"/>
 
 <br/>
 
@@ -25,6 +25,8 @@ A simple text editor that runs in the browser and meets the PWA criteria. The ap
 
 ## **Usage & Installation** 
 Users can access the Progressive Web Applications (PWA) Text Editor in the browser. If users would like to install the application to their local machine they can do so by clicking the `Install` button located in the application. 
+
+<img src="./assets/jate-install-video.gif"/>
 
 <br/>
 
